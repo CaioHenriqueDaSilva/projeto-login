@@ -7,13 +7,13 @@
         width: 80%;
     }
     section#login > div#imagem {
-        float: left;
+        float: right;
         width: 30%;
         height: 100%;
-        border-radius: 20px 0px 0px 20px;
+        border-radius: 0px 20px 20px 0px;
     }
     section#login > div#formulario {
-        float: right;
+        float: left;
         width: 70%;
 
     }
@@ -33,10 +33,7 @@
         section#login > div#formulario {
 
         }
+        div.campo > input {
+
     }
-
-
-*{
-
-
 }
